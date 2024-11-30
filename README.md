@@ -1,4 +1,4 @@
-# Device Tree for Realme N53 (RMX3761)
+# Device Tree for Realme Narzo N53 (RMX3761)
 
 ## Device specifications
 
