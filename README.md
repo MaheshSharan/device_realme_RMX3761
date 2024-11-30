@@ -16,29 +16,10 @@
 | Front Camera          | 8 MP                                                           |
 | Release Date          | 2023, July                                                     |
 
-## Device Tree Structure
+## Device Image
 
-```bash
-device/realme/RMX3761/
-├── Android.mk
-├── AndroidProducts.mk
-├── BoardConfig.mk
-├── device.mk
-├── configs/
-│   ├── audio/
-│   ├── gps/
-│   ├── init/
-│   ├── kernel/
-│   ├── media/
-│   ├── power/
-│   └── wifi/
-├── manifest.xml
-├── overlay/
-├── proprietary-files.txt
-├── rootdir/
-│   └── etc/
-└── sepolicy/
-```
+![Realme N53 (RMX3761)](https://static.c.realme.com/IN/wm-thread/1661013678612295680.jpg)
+
 
 ## Features
 
